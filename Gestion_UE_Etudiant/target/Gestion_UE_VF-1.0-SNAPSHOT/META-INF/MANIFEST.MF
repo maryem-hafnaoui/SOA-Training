@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: hafna
+Build-Jdk: GraalVM CE 17.0.9 - VM 23.0.2
+
